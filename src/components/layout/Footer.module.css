@@ -1,0 +1,45 @@
+.footer{
+   background-color: #222;
+   color: #fff;
+   padding: 2rem;
+   text-align: center;
+}
+
+.madeBy{
+   margin-top: 0.8rem;
+}
+
+.social_list{
+   list-style: none;
+   display: flex;
+   justify-content: center;
+}
+
+.social_list li{
+   margin: 0 1rem;
+}
+
+.social_list li:hover{
+   color: #ffbb33;
+}
+
+.social_list svg{
+   font-size: 1.5em;
+   cursor: pointer;
+}
+
+.copy_right{
+   margin-top: 2em;
+}
+
+.copy_right span{
+  font-weight:bold ;
+  color: #eeb33c;
+} 
+
+
+@media (max-width:685px) {
+   .footer{
+      margin-left: 15rem;
+   }
+}

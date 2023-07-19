@@ -1,0 +1,39 @@
+.contact_container{
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 4em;
+   
+}
+.contact_container  h1{
+   font-size: 2.1em;
+}
+
+.contact_container img{
+   width: 350px;
+   margin: 2em 0;
+}
+
+
+.contact_list{
+   list-style: none;
+   display: flex;
+   justify-content: center;
+}
+
+.contact_list li{
+   margin: 0 2em;
+   padding-top: 1em ;
+}
+
+.contact_list svg:hover{
+   cursor: pointer;
+   color: rgb(225, 225, 120);
+}
+
+.contact_list svg{
+   font-size: 2em;
+   
+}
