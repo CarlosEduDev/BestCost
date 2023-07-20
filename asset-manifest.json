@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BestCost/static/css/main.768b5572.css",
+    "main.js": "/BestCost/static/js/main.5f8e33b6.js",
+    "static/media/contact_us.svg": "/BestCost/static/media/contact_us.13c80369250d8f0aff509318d9d484eb.svg",
+    "static/media/simulation_writer.svg": "/BestCost/static/media/simulation_writer.8554b05876a1c5c3403755ee07be6592.svg",
+    "static/media/projectsIMG.svg": "/BestCost/static/media/projectsIMG.6e86fc2abb0ae81f3af2506e436c7eb9.svg",
+    "index.html": "/BestCost/index.html",
+    "static/media/loading.svg": "/BestCost/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.768b5572.css.map": "/BestCost/static/css/main.768b5572.css.map",
+    "main.5f8e33b6.js.map": "/BestCost/static/js/main.5f8e33b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768b5572.css",
+    "static/js/main.5f8e33b6.js"
+  ]
+}
