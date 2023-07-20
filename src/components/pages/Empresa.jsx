@@ -2,7 +2,7 @@ import Writer from '../../img/simulation_writer.svg'
 
 import styles from '../pages/Home.module.css'
 
-import { Link } from 'react-router-dom'
+
 import LinkButton from '../layout/LinkButton'
 
 function Empresa(){
